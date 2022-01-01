@@ -7,7 +7,7 @@ The data is from [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pn
 
 There are two category in kaggle's data sets : Normal and Pneumonia
 
-The data is  split into a set of  3 folders : train val and test
+The data is  split into a set of  3 folders : train, val and test
 
 
 ## Images
@@ -22,7 +22,7 @@ The data is  split into a set of  3 folders : train val and test
 
 * The test folder totally have 624 jpg files (Normal:234，PNEUMONIA:390)
 
-**Remark\! Data sets for Normal & Pnuemonia are imbalanced (about 1:3)**
+**Remark\! Data sets for Normal & Pneumonia are imbalanced (about 1:3)**
 
 ### Data Augmentation
 
