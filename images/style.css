@@ -1,0 +1,342 @@
+body {
+    margin: 0px;
+    font-family: 'Source Code Pro';
+    font-weight: 400;
+    line-height: 1.6;
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgb(0, 0, 0, 0);
+    -webkit-font-smoothing: auto;
+}
+
+.reportview-container {
+    font-family: 'Source Code Pro';
+    background-color: rgb(0, 0, 0);
+    }
+
+.css-12oz5g7 {
+    flex: 1 1 0%;
+    width: 100%;
+    padding: 6rem 3rem 10rem;
+    max-width: 71rem;
+}
+h1 {
+    font-family: "Source Code Pro";
+    font-weight: 700;
+    color: rgb(149, 149, 149);
+    padding: 1.25rem 195px 1rem;
+    margin: 0px;
+    line-height: 1.4;
+}
+
+.css-177yq5e a {
+    color: rgb(0, 104, 201);
+    visibility: hidden;
+    }
+
+.css-qrbaxs {
+    font-size: 25px;
+    color: rgb(149, 149, 149);
+    margin-top: 25px;
+    margin-bottom: 7px;
+    height: auto;
+    min-height: 1.5rem;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-po3vlj {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 1rem;
+    background-color: rgb(149, 149, 149);
+    border-radius: 0.25rem;
+    color: rgb(0, 0, 0);
+}
+
+.css-nwtri {
+    color: rgb(0, 0, 0);
+    margin-right: 2rem;
+}
+
+.css-po3vlj {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 1rem;
+    background-color: rgb(149, 149, 149);
+    border-radius: 0.25rem;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.css-1aehpvj {
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    line-height: 1.25;
+}
+
+.css-ns78wr {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: 500;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.25rem;
+    margin: 0px;
+    line-height: 1.6;
+    color: inherit;
+    width: auto;
+    user-select: none;
+    background-color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.css-10ix4kq {
+    display: flex;
+    padding: 0.25rem;
+    color: rgb(149, 149, 149);
+}
+
+.css-1l95nvm {
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    color: (149,149,149);
+}
+
+.css-fg4pbf {
+    position: absolute;
+    background: rgb(255, 255, 255);
+    color: rgb(149, 149, 149);
+    inset: 0px;
+    overflow: hidden;
+}
+
+.css-6awftf {
+    position: absolute;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    z-index: 101;
+    height: 2.5rem;
+    width: 2.5rem;
+    transition: opacity 300ms ease 150ms, transform 300ms ease 150ms;
+    border: none;
+    color: rgba(49, 51, 63, 0.6);
+    border-radius: 50%;
+    right: -3rem;
+    top: -0.375rem;
+    opacity: 0;
+    transform: scale(0);
+    background-color: rgb(255, 255, 255);
+    visibility: hidden;
+}
+
+.css-1v0mbdj {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    width: 1041px;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    border: dashed;
+    padding: 1rem;
+}
+
+
+element.style {
+    width: 990px;
+}
+
+.css-1b0udgb {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 14px;
+    color: rgba(49, 51, 63, 0.6);
+    text-align: center;
+    margin-top: 0.375rem;
+    overflow-wrap: break-word;
+    padding: 0.125rem;
+    visibility: hidden;
+}
+
+img, svg {
+    vertical-align: middle;
+    width: 995px;
+    height: 660px;
+}
+
+.css-damlvu {
+    width: 1041px;
+    position: relative;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    gap: 1.75rem;
+}
+
+.css-16huue1 {
+    font-size: 25px;
+    color: rgb(149, 149, 149);
+    margin-top: 25px;
+    margin-bottom: 7px;
+    height: auto;
+    min-height: 1.5rem;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-x8wxsk {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 1rem;
+    background-color: rgb(149, 149, 149);
+    border-radius: 0.25rem;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.css-wn8ljn {
+    color: rgb(0, 0, 0);
+    margin-right: 2rem;
+}
+
+.css-7oyrr6 {
+    color: rgb(0,0,0);
+    font-size: 17px;
+    line-height: 1.25;
+}
+
+.css-c35rmz {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: 400;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.25rem;
+    margin: 0px;
+    line-height: 1.6;
+    color: inherit;
+    width: auto;
+    user-select: none;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(250, 250, 250, 0.2);
+    text-transform: uppercase;
+}
+
+.css-c35rmz {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: 500;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.25rem;
+    margin: 0px;
+    line-height: 1.6;
+    color: rgb(0,0,0);
+    width: auto;
+    user-select: none;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(250, 250, 250, 0.2);
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.css-12xsiil {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 0.25rem;
+    color: rgb(149,149,149);
+}
+
+.css-1kyxreq {
+    display: flex;
+    flex-flow: row wrap;
+    row-gap: 1rem;
+    color: rgb(149,149,149);
+}
+
+.css-1b0udgb {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 14px;
+    color: rgb(14 14 14 / 0%);
+    text-align: center;
+    margin-top: 0.37rem;
+    overflow-wrap: break-word;
+    padding: 0.125rem;
+    visibility: hidden;
+}
+
+.css-e370rw {
+    position: absolute;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    z-index: 101;
+    height: 2.5rem;
+    width: 2.5rem;
+    transition: opacity 300ms ease 150ms, transform 300ms ease 150ms;
+    border: none;
+    color: rgba(250, 250, 250, 0.6);
+    border-radius: 50%;
+    right: -3rem;
+    top: -0.375rem;
+    opacity: 0;
+    transform: scale(0);
+    background-color: rgb(19, 23, 32);
+    visibility: hidden;
+}
+
+.css-ltfnpr {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 14px;
+    color: rgba(250, 250, 250, 0.6);
+    text-align: center;
+    margin-top: 0.375rem;
+    overflow-wrap: break-word;
+    padding: 0.125rem;
+    visibility: hidden;
+}
+
+.css-d1b1ld {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: 400;
+    border-radius: 0.25rem;
+    margin: 0px;
+    line-height: 1.6;
+    color: inherit;
+    width: auto;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 0.75rem;
+    visibility: hidden;
+}
